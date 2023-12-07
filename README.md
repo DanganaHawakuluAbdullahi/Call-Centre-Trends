@@ -24,4 +24,13 @@ Efficient data cleaning and transformation were executed using the Power Query E
 -	Correcting erroneous data types to ensure accuracy and consistency.
 
 ## Data modelling
-The dataset contains only a single table for this analysis, so modelling was not required.
+The dataset contains a single table for this analysis, so modelling was not required.
+
+## Visualization
+The report comprises of 5 tiles
+    1. Overall satisfactory rating for agents
+    2. Agents performance by calls count
+    3. Average speed of answer
+    4. Top 3 calls distribution by time
+    5. Topic resolution
+You can interact with the report [here]()
