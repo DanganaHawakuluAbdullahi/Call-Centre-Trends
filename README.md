@@ -34,3 +34,5 @@ The report comprises of 5 tiles
     4. Top 3 calls distribution by time
     5. Topic resolution
 You can interact with the report [here]()
+
+![]()
